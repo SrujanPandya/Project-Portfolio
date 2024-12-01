@@ -5,14 +5,6 @@ This repository implements a Discrete Wavelet Transform (DWT) pipeline for compr
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Directory Structure](#directory-structure)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Implementation Details](#implementation-details)
-- [Sample Results](#sample-results)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -35,4 +27,3 @@ The project uses Haar wavelets for compression and focuses on preserving importa
 
 ---
 
-## Directory Structure
