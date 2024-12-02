@@ -6,4 +6,5 @@ List of Project Folders (in chronological order):
   1. Aircraft Engine - Design Optimization 
   2. Collaborative Transportation of Two Quadcopters
   3. Position Control of Hovering Quadcopter
-  5. Joint Impedance Control
+  4. Schlumberger Capstone Project
+  5. Modeling and Simulation of TU Delft's Flying V
